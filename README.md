@@ -21,3 +21,6 @@
 - 👀 I’m interested in Artificial Intelligence.
 - 🌱 I’m currently specializing in Artificial Intelligence at Politecnico di Milano.
 - 📫 You can contact me through <a href="https://www.linkedin.com/in/alirezayahyanejad/">LinkedIn</a> or by dropping me an <a href="mailto:yahyanejadalre@gmail.com">email</a>.
+
+![GitHub Snake Light](https://github.com/yahyanejadalre/yahyanejadalre/blob/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/yahyanejadalre/yahyanejadalre/blob/output/github-snake-dark.svg#gh-dark-mode-only)
